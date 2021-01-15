@@ -1,0 +1,1 @@
+{"id":"b47a1435-e931-4f27-856e-3215f658c9e6","name":"Lautaro","lastName":"Carro","email":"lautaroecarro@gmail.com","password":"1000.\u002B4HIj070/OidGcTAPuc03A==.lATp8fCzrhdet7bB3eMjO4fLDOrsjYZ3xSUgBm5o2cs=","picture":"https://cdn.pixabay.com/photo/2016/08/31/11/54/user-1633249_960_720.png","verifiedEmail":false,"role":2,"ambassadorId":null}
