@@ -1,0 +1,1 @@
+{"id":"bec5a905-252b-45c4-acc1-a486fc000c5e","name":"Naza","lastName":"Naza","email":"naza@gmail.com","password":"1000.PtAT5nIhF/4IFqfQuiy0Rg==.4XW8bLE\u002B3Mju15B3mr2HLesAec9qttd/aJUJfw7bRIk=","picture":"https://cdn.pixabay.com/photo/2016/08/31/11/54/user-1633249_960_720.png","verifiedEmail":false,"role":0,"ambassadorId":null}
