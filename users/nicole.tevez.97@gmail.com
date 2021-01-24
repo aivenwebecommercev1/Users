@@ -1,1 +1,0 @@
-{"id":"e791daae-d4f9-47d6-87b0-a717e5867a8d","name":"NIcole","lastName":"Tevez","email":"nicole.tevez.97@gmail.com","password":"1000.VfqwG/gn1Og7eIRRAw24/Q==.1EvQyHqBSid5BINKpiMXQ96Ft0qfYJANeKYvbP0b7YY=","picture":"https://aivenweb.com/assets/img/admin/user-photo-default.webp","verifiedEmail":false,"role":1,"ambassadorId":null}
