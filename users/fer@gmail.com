@@ -1,0 +1,1 @@
+{"id":"f4458054-8a5d-4f69-b813-c974f30a07d6","name":"Fernando","lastName":"Valdata","email":"fer@gmail.com","password":"1000.dCJdvxi3Tv4\u002Bk4UoTQIrDQ==./gWkZlkJc/eov\u002BbowKoG9j3UQiOMGsFN9mK33QFk9Mk=","picture":"https://aivenweb.com/assets/img/admin/user-photo-default.webp","verifiedEmail":false,"role":1,"ambassadorId":null}
